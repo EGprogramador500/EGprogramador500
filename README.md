@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
 - 🎓 I am a **student**.
-- 💻 Major is **Computer Science and Technology**.
+- 💻 Major is **Desarrollo web y Tecnologia**.
 - 🌱 I'm currently learning **Web development and Python**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 
